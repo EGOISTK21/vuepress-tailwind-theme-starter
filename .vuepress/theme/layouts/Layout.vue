@@ -57,6 +57,6 @@ export default {
   &__content
     @apply flex justify-center items-center
   &__footer
-    @apply flex justify-center items-center h-16 w-full
-    @apply border-t-2
+    @apply flex justify-center items-center h-16 px-16
+    @apply border-b-2
 </style>

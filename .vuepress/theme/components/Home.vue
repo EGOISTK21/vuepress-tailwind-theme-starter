@@ -2,7 +2,7 @@
   <div class="site-home container w-4/5">
     <header class="hero">
       <img
-        class="my-16 mx-auto h-64"
+        class="my-16 mx-auto"
         :src="require('@/public/images/vuepress+tailwindcss.png')"
       />
     </header>
